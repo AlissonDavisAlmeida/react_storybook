@@ -1,3 +1,5 @@
-import { Button } from "./stories/Button";
+export * from "./stories/components/MyLabel.stories"
+export { Basic } from "./stories/components/MyModal.stories"
 
-export default Button
+export * from "./components/Modal"
+export * from "./components/Mylabel"
